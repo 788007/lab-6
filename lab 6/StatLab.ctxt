@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=n
+comment0.target=StatLab(int)
+comment1.params=
+comment1.target=void\ loadRandom()
+comment2.params=
+comment2.target=void\ sortArray()
+comment3.params=
+comment3.target=double\ findAverage()
+comment4.params=
+comment4.target=java.lang.String\ printArray()
+comment5.params=
+comment5.target=double\ getMedian()
+comment6.params=
+comment6.target=int\ getMode()
+numComments=7
